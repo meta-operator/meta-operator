@@ -1,0 +1,7 @@
+apiVersion: operator.meta-operator.io/v1alpha1
+kind: MetaOperator
+metadata:
+  name: example-metaoperator
+spec:
+  # Add fields here
+  size: 3
